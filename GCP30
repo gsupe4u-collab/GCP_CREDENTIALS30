@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "golden-joy-496701-i0",
+  "private_key_id": "2acb1e67cb9672bfab445d32265bffde774380b2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDF2X6CMOC5LWQa\nWuOm6lP52boMYfRCWDNyI7SIg5qyKCc2E6IBAyLTzvhwlrM9THgxxomxBirJMSvA\nIoW4PFioiEu6b0HaLtywnMJge+3gXQxS9IvxeowqcMvJUuc8pAe98SwlIADo1Jxn\niFLBXWhUt/brWu+1FA2LKNI/eIjoma6m03qaH3EPmyDfmatFfg4wI3j6bOXceDmD\nmll0ou8Y125CH0f6CGMCjNaoA3mqCpQsx9S7nK2w5qJK2tYA/vGiGjt9dIopj0et\nywQMGWXhLu6n9Mc565LagkyFu/pAVID3yW0NwifAT9tovI30TkHxrGM6ySjkTKAB\n6Wo+S06PAgMBAAECggEACHV+FS7lzMUGDKJqLU7DfGE0tSbS/Ksst+qS42tNB+Tz\nmDpKqORrbsbglF+9FhfY47frVyg+WA/EIRjYwsHBwKLjKftrw1pRkTOClAF4cClK\nR5mxCggFSiM8c0UaIduZgSN4kbXGlC3S6hJIB4Bo34ZmBjYDHajX02VRZ+lNYTRt\nllSlFOiMJ7Y2+fgXHeZPh9PoS4O4J20SvsK+xwNZGimI3Dn+I+AZ8ADUTYgFwk+C\nRVvUQf4ISW3e9fkAkIOjtgS0xZad+T6UjuBehEr6ZKAkTDkLPXM1KJSelA9U08c7\n6hYD0I1MbFcaz3bhmkXCvxcC0DcblqFfftzXqvNnIQKBgQD0G2UueM+08G6rAaRs\nvkGHOvnLovzcdHElXwVr438dl9E1eoByJrAEH6XKV2cdqHcF0Kx0wAXMIT2EL5M9\ncTLXoiaqgPXMaHepi/Ueg1Y+6fskP5cuSy1yC6/ezPxp0E1OXhKviWcb5Gli0TjG\nWZ4FLJSkjI9jpgU7hoRhUZu02QKBgQDPfSgvHg5nfuN9V45z4qbtFtX6I7mF69ga\nMCPcxzctRwqyUJZldfMoPdSQk3WA4vH4/i0ia5MEsaIja4ACZ5QqqMCyNzTG5ztE\ndok09baqBE9MSwG8J1jXjcql8Hz4fYtWS1SgC9ZMNjXaHaoOCARhmltcz05vwEra\nUbO918HdpwKBgQDeADQq6XBs6+SZ3Sp+QyExLS+URSyWCcgE5r/1eLZYYYPAkSJT\nrl+RwH504LxEurtULI1KuIANP4XEu8e6r0I/3ZYwpovkVHXPWhuYnnVHTmA6fSKu\n1WwFNh/CDsbYLLrBtMhloB6HvVkip4hsy3/s0Lh2VebqB0jm89Vc9G0ZMQKBgHE8\n1gx489WKC6+hdE5MmVt1hgxBKQQsxcDtGvVoB/X++ph8oMf4yl7g97x7rbpMoVCJ\nr6pEWXVLWLjJ94/YZaWueZQJyxTup4riwlkT7L/3ICv8F5NPSg5CBSHxENMw+TV8\nYVADhc4MG/HRFLkZqQJ3knshbKZSpMdnpZfrQ5OrAoGBALDnzcoYtckac5eiouDG\nwCaP4tOuZdBfhk860t50kBzfWh+ht625mMOrAIEbOwGOavN5OJHphmcwZBUoUyPm\nQYKIpFgnj2wtecnaFe4lufThMsHlq7LzRm0FjBzLEkMsHgxoKEPIlaB/OxG8e9e7\ndSIS9o5c0qJ0WrPnXgaueKv2\n-----END PRIVATE KEY-----\n",
+  "client_email": "stock-updator@golden-joy-496701-i0.iam.gserviceaccount.com",
+  "client_id": "113220749201579728372",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/stock-updator%40golden-joy-496701-i0.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
